@@ -1,3 +1,4 @@
+#guardar la libreria como ota.py
 import network
 import urequests
 import os
