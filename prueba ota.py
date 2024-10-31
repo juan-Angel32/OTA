@@ -1,6 +1,5 @@
 from ota import OTAUpdater
-from WIFI_CONFIG import SSID, PASSWORD  # Asegúrate de que el archivo tenga estas variables correctamente definidas.
-
+from WIFI_CONFIG import SSID, PASSWORD  # Asegúrate de que el archivotgtgtrgtrgtrgtr
 # URL del repositorio de firmware
 firmware_url = "main.py"
 
