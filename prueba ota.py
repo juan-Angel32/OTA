@@ -1,7 +1,7 @@
 from ota import OTAUpdater
 from WIFI_CONFIG import SSID, PASSWORD
 
-# URL del repositorio de firmware en GitHub (asegúrate de que termine en "/")
+# URL del repositorio de firmware en GitHub (debe terminar en "/")
 firmware_url = "https://raw.githubusercontent.com/juan-Angel32/OTA/main/"
 
 # Verificación de configuración
