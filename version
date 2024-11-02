@@ -1,0 +1,3 @@
+git add prueba ota.py version.json
+git commit -m "Actualización del firmware a la versión 3"
+git push origin main
