@@ -1,5 +1,17 @@
 # OTA
 
+OTA es un acrónimo en inglés que puede tener varios significados, entre ellos:
+Actualización por aire: (Over-the-air) es un método inalámbrico para actualizar el software o firmware de un teléfono móvil o tableta. Las actualizaciones OTA pueden ser automáticas o manuales
+
+Actualización Remota: 
+OTA permite actualizar el firmware de los dispositivos de manera inalámbrica, sin necesidad de intervención física.
+Simplicidad: 
+La implementación OTA simplifica el proceso de mantenimiento y mejora del software en dispositivos IoT distribuidos.
+Flexibilidad: 
+Facilita la adaptación a cambios y la aplicación de parches de seguridad de manera ágil.
+![image](https://github.com/user-attachments/assets/e40f9ee3-7742-4840-8798-c4d8e6d59824)
+
+
 instalacion de micropyyhon en esp32 c3 super mini
 1. abrir como super administrador cmd en windows
 2. agregar el siguiente comando para  bottear el dispositivo ->
